@@ -17,6 +17,7 @@ Run the script by executing the following command:
 ```shell
 python sentimentscrape.py
 
+
 After execution, the script will save each table as a separate CSV file in the current directory.
 Dependencies
 
