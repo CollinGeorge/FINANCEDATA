@@ -15,7 +15,7 @@ This script performs web scraping on a specific webpage to extract financial new
 Run the script by executing the following command:
 
    ```shell
-   python sentimentscrape.py
+   python financedata.py
 
 3. After execution, the script will save each table as a separate CSV file in the current directory.
 Dependencies
