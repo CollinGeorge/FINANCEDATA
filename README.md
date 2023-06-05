@@ -11,14 +11,13 @@ This script performs web scraping on a specific webpage to extract financial new
    ```shell
    pip install requests pandas beautifulsoup4
 
-Modify the script's URL variable (url) to specify the webpage containing the tables you want to scrape.
+3. Modify the script's URL variable (url) to specify the webpage containing the tables you want to scrape.
 Run the script by executing the following command:
 
-```shell
-python sentimentscrape.py
+   ```shell
+   python sentimentscrape.py
 
-
-After execution, the script will save each table as a separate CSV file in the current directory.
+3. After execution, the script will save each table as a separate CSV file in the current directory.
 Dependencies
 
 The script requires the following libraries:
